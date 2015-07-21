@@ -1,2 +1,3 @@
-# luminate-docs
-Luminate Docs
+# stache-boilerplate
+
+
