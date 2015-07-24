@@ -5,7 +5,7 @@ name: YAML pattern 1
 description: A gallery of helpful Markdown resources and related tools.
 thumbnail: /assets/img/markdown100.png
 published: true
-showInNav: true
+showInNav: false
 showInHeader: true
 showInFooter: true
 markdownresources:

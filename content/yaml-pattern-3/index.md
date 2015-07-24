@@ -5,7 +5,7 @@ order: 70
 name: YAML pattern 3
 description: A listing of helpful code samples.
 published: true
-showInNav: true
+showInNav: false
 showInHeader: true
 showInFooter: false
 code:

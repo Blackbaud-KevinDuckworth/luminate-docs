@@ -4,7 +4,7 @@ order: 30
 name: Showcase pattern
 description: a folder driven pattern that displays a showcase of child content items on the parent page
 published: true
-showInNav: true
+showInNav: false
 showInHeader: true
 showInFooter: true
 ---

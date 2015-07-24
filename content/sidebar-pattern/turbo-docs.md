@@ -1,3 +1,15 @@
+---
+layout: layout-sidebar
+order: 20
+name: Turbo Docs
+description: render side navigation on the left hand side of the page using H2 tags
+published: true
+showInNav: true
+showInHeader: true
+showInFooter: true
+---
+
+
 #Turbo Documentation
 
 
@@ -28,9 +40,9 @@ part of Turbo, please request access to the repository.
 
 ### Access Request
 
-To request access to this repository, email <jason.rikard@blackbaud.com>
+<p class="alert alert-success">To request access to this repository, email <jason.rikard@blackbaud.com>
 with your Github username that is in the following format:
-*Blackbaud-JasonRikard*.
+*Blackbaud-JasonRikard*.<p>
 
 ### Bugs and Enhancements Requests
 

@@ -5,7 +5,7 @@ order: 60
 name: YAML pattern 2
 description: A listing of helpful videos to grow your Stache
 published: true
-showInNav: true
+showInNav: false
 showInHeader: true
 showInFooter: false
 installvideos:
